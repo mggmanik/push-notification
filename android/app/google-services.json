@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "244977860780",
+    "firebase_url": "https://cap-app-4f675.firebaseio.com",
+    "project_id": "cap-app-4f675",
+    "storage_bucket": "cap-app-4f675.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244977860780:android:b22efe20e9391d6efc1f09",
+        "android_client_info": {
+          "package_name": "com.ibm.capapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244977860780-1jg7nacsmsu6rdc2bp4dk2h5uc8idc41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPX7HJbAyrDrU_Q3Ed6wEgf6K7-HdqlCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244977860780-1jg7nacsmsu6rdc2bp4dk2h5uc8idc41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
